@@ -1,5 +1,6 @@
 # emulator-tutorial
 Tutorial to be able to play the game
+(Created in August 2024, verified to work up to Var: 295969)
 > [!TIP]
 > 日本語版(原文)は[こちら](https://github.com/2288-256/emulator-tutorial/tree/main/ja)にあります。
 > 
