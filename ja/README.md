@@ -55,7 +55,7 @@ Aurora Storeの場合
 > [!WARNING]
 > LDPlayerの設定で「Root権限」をオフにしない場合は「不明なアプリが検出されたため、終了します。」とポップアップが出て起動できないので必ずオフにすること
 > 
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/root-setting.png" width="400px">
+> <img src="https://github.com/2288-256/emulator-tutorial/blob/main/img/ja/root-setting.png?raw=true" width="400px">
 
 起動後、ログイン方法の選択では「GUEST」を選択してください。
 
