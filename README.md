@@ -2,6 +2,7 @@
 Tutorial to be able to play the game
 > [!TIP]
 > 日本語版(原文)は[こちら](https://github.com/2288-256/emulator-tutorial/tree/main/ja)にあります。
+> 
 > The Japanese version (original text) can be found [here](https://github.com/2288-256/emulator-tutorial/tree/main/ja).
 
 # Required Items
