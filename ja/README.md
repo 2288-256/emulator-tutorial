@@ -103,9 +103,9 @@ Google等でMicrosoft Visual Studio 2022と検索し、インストールして�
 > [!TIP]
 > 以下のようにしてください
 > 
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/Visual_Studio_1.png" width="400px">
+> <img src="https://github.com/2288-256/emulator-tutorial/blob/main/img/ja/Visual_Studio_1.png?raw=true" width="400px">
 > 
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/Visual_Studio_2.png" width="400px">
+> <img src="https://github.com/2288-256/emulator-tutorial/blob/main/img/ja/Visual_Studio_2.png?raw=true" width="400px">
 
 ## mitmproxyのインストールとCA証明書のインストール
 
