@@ -13,7 +13,7 @@
 - WireGuard
 
 > [!TIP]
-> SQL Server Express 2022より下はここで手順を解説しています
+> SQL Server Express 2022より下は[ここ](https://github.com/2288-256/emulator-tutorial/tree/main/ja#%E5%90%84%E7%A8%AE%E3%82%BD%E3%83%95%E3%83%88%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB)で手順を解説しています
 
   
 ---
