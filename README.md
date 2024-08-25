@@ -15,7 +15,7 @@ Tutorial to be able to play the game
 - WireGuard
 
 > [!TIP]  
-> Instructions for items below SQL Server Express 2022 are explained here. 
+> Instructions for items below SQL Server Express 2022 are explained [here](https://github.com/2288-256/emulator-tutorial/blob/main/README.md#installation-of-various-software). 
 
 # Settings for LDPlayer
 ## 1. Installing Blue Archive
@@ -275,7 +275,7 @@ During the initial launch, you will need to create an account again. Follow thes
 
 Congratulations! The setup is complete.
 
-For subsequent launches, you should be able to follow the startup procedure to begin the game.
+For subsequent launches, you should be able to follow the [startup procedure](https://github.com/2288-256/emulator-tutorial/blob/main/README.md#startup-procedure) to begin the game.
 
 # Additional Information
 
