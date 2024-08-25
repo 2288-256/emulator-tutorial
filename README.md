@@ -53,7 +53,7 @@ Launch the installed app and complete the tutorial. The end of the tutorial is d
 > [!WARNING]  
 > If you do not turn off "Root Permission" in LDPlayer settings, a popup will appear saying "An unknown app has been detected. The app will now exit," preventing the game from launching. Make sure to turn off this setting.  
 >  
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/root-setting.png" width="400px">
+> <img src="https://2288-256.github.io/emulator-tutorial/img/en/root-setting.png" width="400px">
 
 After launching, choose "GUEST" for the login method.
 
