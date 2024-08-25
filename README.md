@@ -101,9 +101,9 @@ Search for Microsoft Visual Studio 2022 on Google or other search engines and in
 > [!TIP]  
 > Since I couldn't provide the English version, it might be a bit difficult to follow, but please check the checkboxes based on the following images:
 > 
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/Visual_Studio_1.png" width="400px">
+> <img src="https://github.com/2288-256/emulator-tutorial/blob/main/img/ja/Visual_Studio_1.png?raw=true" width="400px">
 > 
-> <img src="https://2288-256.github.io/emulator-tutorial/img/ja/Visual_Studio_2.png" width="400px">
+> <img src="https://github.com/2288-256/emulator-tutorial/blob/main/img/ja/Visual_Studio_2.png?raw=true" width="400px">
 
 
 ## Installing mitmproxy and CA Certificate
